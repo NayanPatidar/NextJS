@@ -1,3 +1,5 @@
+import Login from "./@login/page";
+
 export default function DefaultComplexDashboardPage() {
-  return <div>Complex Dashboard</div>;
+  return <Login></Login>;
 }
